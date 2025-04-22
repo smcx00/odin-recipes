@@ -1,1 +1,4 @@
 # odin-recipes
+(Apr 22, 2025) Hello. I'm currently on my web development learning journey, utilizing The Odin Project and other free, accessible resources to guide me. I've got some casual experience toying with HTML and CSS. I've been using Linux distributions on and off for the past 5 years, which I'm learning is a great foundation. All in all, I feel like I have the potential to be a skilled web developer -- to solve problems, build interesting things, and flex my creative muscles. I'm excited to start on this journey and have already learned a lot.
+
+In this project, I will create a basic recipe website using HTML.
